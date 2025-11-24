@@ -6,7 +6,7 @@ This is a **serverless web application** that uses **Amazon Bedrock** (Generativ
 
 ## 📌 Architecture Overview
 
-![Architecture Diagram](/mnt/data/Screenshot 2025-11-24 074929.png)
+![Architecture Diagram](/assets/arch.png)
 
 ### 🔄 Flow of the Application
 
@@ -183,11 +183,11 @@ A futuristic cyberpunk city at night with neon lights
 **Output:**
 AI-generated image from Amazon Bedrock
 
-(Optional sample)
 
-```markdown
+![Sample Output](assets/output.png)
+
+
 ![Sample Output](assets/sample.png)
-```
 
 ---
 
