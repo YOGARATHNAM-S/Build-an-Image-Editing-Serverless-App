@@ -177,7 +177,7 @@ Amplify will generate a **Live URL**
 **Prompt:**
 
 ```
-A futuristic cyberpunk city at night with neon lights
+Remove the Black car
 ```
 
 **Output:**
@@ -187,8 +187,13 @@ AI-generated image from Amazon Bedrock
 ![Sample Output](assets/output.png)
 
 
-![Sample Output](assets/sample.png)
+![Sample Output](assets/final.png)
 
+
+
+---
+[Link](https://staging.d33bculg4ltx3o.amplifyapp.com/)
+---
 ---
 
 ## 🔒 Security Best Practices
